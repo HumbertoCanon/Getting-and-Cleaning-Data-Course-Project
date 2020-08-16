@@ -36,7 +36,7 @@ Here are the data for the project:
 8) Appropriately labels the data set with descriptive variable names
 9) From the data set in previous step, creates a second, independent tidy data set with 
    the average of each variable for each activity and each subject.
-10) write a TidyData in the file ""TidyData.txt"
+10) Write the TidyData in the file ""TidyData.txt"
 
 
 
